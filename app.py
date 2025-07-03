@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set your AviationStack API Key
-API_KEY = "YOUR_API_KEY"
+API_KEY = "c1feca4c39da426f43dcfd8d4bd57386"
 
 # Streamlit Page Setup
 st.set_page_config(page_title="Airline Demand Analyzer", layout="wide")
