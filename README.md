@@ -1,9 +1,13 @@
-# Flight_manager
-## 📊 Summary of Insights
+# ✈️ Airline Market Demand Analyzer
 
-- The most common arrival airport from **SYD** is **Perth International**.
-- Airlines with highest frequencies include: **Qantas, Emirates, Air New Zealand**
-- Peak demand for departures is between **6 AM to 10 AM**, indicating strong morning preference.
-- This tool helps hostel businesses monitor flight demand trends, optimize marketing, and prepare logistics.
+A Streamlit web app that fetches and visualizes live flight data based on user-input departure airport code.
 
-Built using: Python, AviationStack API, Pandas, Matplotlib, Seaborn on Google Colab.
+## 🚀 Tech Stack
+- Python
+- Streamlit
+- pandas
+- requests
+- matplotlib (optional for visuals)
+
+## 📦 Installation
+Clone the repo and run:
